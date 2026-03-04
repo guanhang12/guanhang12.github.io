@@ -1,6 +1,5 @@
 # ============================================================
-#  Hugo + Stack Theme — Academic Portfolio
-#  Replace every <...> placeholder before deploying
+#  Hang Guan — Academic Portfolio
 # ============================================================
 
 baseURL: "https://guanhang12.github.io/"
@@ -9,25 +8,24 @@ title: "Hang Guan"
 theme: hugo-theme-stack
 
 permalinks:
-  projects: /project/:slug/
+  research: /research/:slug/
   page: /:slug/
 
 # --------------- Global Params ---------------
 params:
   mainSections:
-    - projects
+    - research
   featuredImageField: image
   rssFullContent: true
-  # favicon: /img/favicon.ico
 
   sidebar:
     compact: false
     emoji: ""
-    subtitle: "<Ph.D student at Texas A&M University>"
+    subtitle: "Ph.D. Student · Mechanical Engineering · Texas A&M University"
     avatar: ""  # 添加头像时：把图片放到 assets/img/avatar.png，然后改为 avatar: img/avatar.png
 
   footer:
-    since: 2024
+    since: 2020
     customText: ""
 
   dateFormat:
@@ -72,28 +70,34 @@ menu:
       weight: 10
       params:
         icon: home
-    - identifier: projects
-      name: Projects
-      url: /projects/
+    - identifier: research
+      name: Research
+      url: /research/
       weight: 20
       params:
-        icon: archive
+        icon: flask
     - identifier: publications
       name: Publications
       url: /publications/
       weight: 30
       params:
         icon: book
+    - identifier: awards
+      name: Awards
+      url: /awards/
+      weight: 40
+      params:
+        icon: award
     - identifier: cv
       name: CV
       url: /cv/
-      weight: 40
+      weight: 50
       params:
         icon: file-text
     - identifier: contact
       name: Contact
       url: /contact/
-      weight: 50
+      weight: 60
       params:
         icon: mail
 
@@ -115,7 +119,7 @@ menu:
         icon: brand-linkedin
     - identifier: email
       name: Email
-      url: "h_guan@tamu.edu"
+      url: "mailto:h_guan@tamu.edu"
       params:
         icon: mail
 

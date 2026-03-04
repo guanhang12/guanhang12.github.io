@@ -8,7 +8,7 @@
         <p class="hero__tagline">{{ .Site.Params.sidebar.subtitle }}</p>
         <nav class="hero__actions">
             <a href="{{ "cv/" | relURL }}" class="btn btn--primary">CV / Resume</a>
-            <a href="{{ "projects/" | relURL }}" class="btn btn--outline">Projects</a>
+            <a href="{{ "research/" | relURL }}" class="btn btn--outline">Research</a>
             <a href="{{ "publications/" | relURL }}" class="btn btn--outline">Publications</a>
         </nav>
     </div>
@@ -17,9 +17,9 @@
 {{/* ===== Impact Strip (from _index.md content) ===== */}}
 {{ .Content }}
 
-{{/* ===== Featured Projects ===== */}}
-<section id="projects" class="home-section">
-    <h2 class="home-section__title">Featured Projects</h2>
+{{/* ===== Research Experience ===== */}}
+<section id="research" class="home-section">
+    <h2 class="home-section__title">Research Experience</h2>
 
     {{ $pages := where site.RegularPages "Type" "in" (site.Params.mainSections | default (slice "post")) }}
     {{ $notHidden := where site.RegularPages "Params.hidden" "!=" true }}

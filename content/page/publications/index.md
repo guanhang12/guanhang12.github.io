@@ -3,67 +3,67 @@ title: Publications
 slug: publications
 ---
 
-## 2024
+## Journal Articles
 
-**<Publication Title 1>**
-**<Your Name>**, Co-Author A, Co-Author B
-*<Journal Name>*, vol. X, pp. XX–XX, 2024.
-[DOI](https://doi.org/<doi>) · [PDF](/files/<paper1>.pdf)
+### 2025
 
-<details>
-<summary style="cursor:pointer; font-size:0.85rem; color:var(--accent-color); margin-bottom:0.5rem;">Show BibTeX</summary>
-
-```bibtex
-@article{<citekey1>,
-  author  = {<Your Name> and Co-Author A and Co-Author B},
-  title   = {<Publication Title 1>},
-  journal = {<Journal Name>},
-  year    = {2024},
-  volume  = {X},
-  pages   = {XX--XX},
-  doi     = {<doi>}
-}
-```
-
-</details>
+**Automated layout generation of HVAC piping from building floor plans**  
+Junjie Li, **Hang Guan**, Peng Xu, Jiefan Gu, Liyan Dong  
+*Automation in Construction*, Volume 177, 2025, 106359.  
+[DOI](https://doi.org/10.1016/j.autcon.2025.106359)
 
 ---
 
-**<Publication Title 2>**
-Co-Author C, **<Your Name>**, Co-Author D
-*<Conference Name>*, 2024.
-[DOI](https://doi.org/<doi>) · [PDF](/files/<paper2>.pdf)
+### 2023
+
+**Multi-Zone Infection Risk Assessment Model of Airborne Virus Transmission on a Cruise Ship Using CONTAM**  
+Zhuang Xia, **Hang Guan**, Xiaolei Yuan, Tian Xie, Peng Xu  
+*Buildings*, 13(9), 2350, 2023.  
+[DOI](https://doi.org/10.3390/buildings13092350)
 
 ---
 
-## 2023
-
-**<Publication Title 3>**
-**<Your Name>**, Co-Author E
-*<Journal Name>*, vol. Y, no. Z, pp. YY–YY, 2023.
-[DOI](https://doi.org/<doi>) · [PDF](/files/<paper3>.pdf)
-
-<details>
-<summary style="cursor:pointer; font-size:0.85rem; color:var(--accent-color); margin-bottom:0.5rem;">Show BibTeX</summary>
-
-```bibtex
-@article{<citekey3>,
-  author  = {<Your Name> and Co-Author E},
-  title   = {<Publication Title 3>},
-  journal = {<Journal Name>},
-  year    = {2023},
-  volume  = {Y},
-  number  = {Z},
-  pages   = {YY--YY},
-  doi     = {<doi>}
-}
-```
-
-</details>
+**BIM-Based Automated Multi-Air Distribution Layout Generation for Office Buildings: A Case Study**  
+Zixuan Qi, Ruiying Jin, Junjie Li, **Hang Guan**, Peng Xu  
+*Buildings*, 13(7), 1819, 2023.  
+[DOI](https://doi.org/10.3390/buildings13071819)
 
 ---
 
-**<Publication Title 4>**
-**<Your Name>**, Co-Author F, Co-Author G
-*<Conference Name>*, 2023.
-[DOI](https://doi.org/<doi>)
+### 2022
+
+**Automatic fault diagnosis algorithm for hot water pipes based on infrared thermal images**  
+**Hang Guan**, Tong Xiao, Wei Luo, Jiefan Gu, Ruikai He, Peng Xu  
+*Building and Environment*, 218, 109111, 2022.  
+[DOI](https://doi.org/10.1016/j.buildenv.2022.109111)
+
+---
+
+**Rule-based generation of HVAC duct routing**  
+Zhisen Chen, **Hang Guan**, Xiaolei Yuan, Tian Xie, Peng Xu  
+*Automation in Construction*, 139, 104264, 2022.  
+[DOI](https://doi.org/10.1016/j.autcon.2022.104264)
+
+---
+
+## Conference Papers
+
+### 2025
+
+**Optimizing the Geometric Design of Desiccant Wheels for Drying Controllability and Desiccant Use**  
+**Hang Guan**, Mingzhe Liu, Zhiyao Yang, Zheng O’Neill  
+*ASHRAE Winter Conference*, 2025.
+
+---
+
+### 2024
+
+**Comparison of Different Desiccant Wheel Modeling Methods: A Review and Case Study**  
+**Hang Guan**, Mingzhe Liu, Zhiyao Yang, Zheng O’Neill  
+*ASHRAE Annual Conference*, 2024.
+
+---
+
+**Automatic design of HVAC water system pipelines based on multi-agent ant colony algorithm**  
+Junjie Li, **Hang Guan**, Peng Xu  
+*5th Asia Conference of IBPSA*, 2024.
