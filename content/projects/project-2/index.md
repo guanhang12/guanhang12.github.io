@@ -8,7 +8,7 @@ tags:
   - "<Tag2, e.g. Time Series>"
 categories:
   - "<Category, e.g. Controls>"
-image: cover.jpg
+# image: cover.jpg  # uncomment after placing a cover.jpg in this folder
 links:
   - title: Paper
     description: "Published in <Conference Name>"

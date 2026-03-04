@@ -8,7 +8,7 @@ tags:
   - "<Tag2, e.g. Digital Twin>"
 categories:
   - "<Category, e.g. Building Science>"
-image: cover.jpg
+# image: cover.jpg  # uncomment after placing a cover.jpg in this folder
 links:
   - title: Paper
     description: "Published in <Journal Name>"

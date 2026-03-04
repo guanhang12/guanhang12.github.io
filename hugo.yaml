@@ -24,10 +24,7 @@ params:
     compact: false
     emoji: ""
     subtitle: "<One-sentence research tagline, e.g. PhD Candidate · Building Energy · ML>"
-    avatar:
-      enabled: true
-      local: true
-      src: img/avatar.png
+    avatar: img/avatar.png
 
   footer:
     since: 2024

@@ -8,7 +8,7 @@ tags:
   - "<Tag2, e.g. Optimization>"
 categories:
   - "<Category, e.g. Energy Systems>"
-image: cover.jpg
+# image: cover.jpg  # uncomment after placing a cover.jpg in this folder
 links:
   - title: Paper
     description: "Published in <Journal Name>"
