@@ -1,5 +1,5 @@
 ---
-title: "Water-Loop GSHP System Modeling for Multi-Family Buildings"
+title: "Water-Loop GSHP System for Multi-Family Buildings"
 description: "Designed and evaluated water-loop ground-source heat pump systems for multi-family buildings during Ph.D. internship at Pacific Northwest National Laboratory."
 date: 2025-05-01
 weight: 3

@@ -28,4 +28,4 @@ Developed an automatic fault detection and diagnosis (FDD) method for hot water 
 
 ## Publication
 
-- **Hang Guan**, T. Xiao, W. Luo, J. Gu, R. He, P. Xu, "Automatic fault diagnosis algorithm for hot water pipes based on infrared thermal images," *Building and Environment*, 2022, 218: 109111.
+- **Hang Guan**, T. Xiao, W. Luo, J. Gu, R. He, P. Xu, "[Automatic fault diagnosis algorithm for hot water pipes based on infrared thermal images](https://doi.org/10.1016/j.buildenv.2022.109111)," *Building and Environment*, 2022, 218: 109111.

@@ -12,15 +12,19 @@ slug: cv
 ## Education
 
 **Ph.D. in Mechanical Engineering** (GPA: 4.0/4.0)
+
 Texas A&M University · College Station, TX, USA · 2023 – Expected May 2027
 
 **M.Eng. in Building Environment and Energy Engineering** (GPA: 4.65/5.0)
+
 Tongji University · Shanghai, China · 2020 – 2023
 
 **Special Lecture Program: SDGs and Asia Pacific Region**
+
 Osaka University · Online · May 2021 – Aug 2021
 
 **B.Eng. in Building Environment and Energy Engineering** (GPA: 4.65/5.0, Rank: Top 1.45%)
+
 Zhengzhou University · Zhengzhou, China · 2016 – 2020
 
 ---

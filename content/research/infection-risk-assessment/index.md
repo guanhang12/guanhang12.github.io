@@ -29,4 +29,4 @@ Core team member on a multi-zone infection risk assessment project for airborne 
 
 ## Publication
 
-- Z. Xia, **Hang Guan**, P. Xu, "Multi-Zone Infection Risk Assessment Model of Airborne Virus Transmission on a Cruise Ship Using CONTAM," *Buildings*, 2023, 13(9):2350.
+- Z. Xia, **Hang Guan**, P. Xu, "[Multi-Zone Infection Risk Assessment Model of Airborne Virus Transmission on a Cruise Ship Using CONTAM](https://doi.org/10.3390/buildings1309235)," *Buildings*, 2023, 13(9):2350.

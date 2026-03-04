@@ -14,7 +14,7 @@ I am always happy to connect. Feel free to reach out through any of the channels
 
 ---
 
-### Mailing Address
+**Mailing Address**
 
 J. Mike Walker '66 Department of Mechanical Engineering
 Texas A&M University

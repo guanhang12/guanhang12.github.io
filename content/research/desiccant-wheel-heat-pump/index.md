@@ -1,5 +1,5 @@
 ---
-title: "Decarbonizing Industrial Food Drying with Desiccant-Wheel Heat Pump System"
+title: "[Decarbonizing Industrial Food Drying with Desiccant-Wheel Heat Pump System](https://hvac.engr.tamu.edu/doe-dwhp-project/)"
 description: "Led DOE-funded research on energy-efficient desiccant-wheel heat pump systems for industrial food drying, including modeling, optimization, and life cycle analysis."
 date: 2023-12-01
 weight: 1
@@ -11,12 +11,15 @@ tags:
 categories:
   - Energy Systems
 links:
+  - title: "Project Page"
+    description: "DOE DWHP Project at TAMU HVAC Lab"
+    website: "https://hvac.engr.tamu.edu/doe-dwhp-project/"
   - title: "ASHRAE 2024"
     description: "Comparison of Different Desiccant Wheel Modeling Methods"
-    website: ""
+    website: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6TRzYYAAAAJ&citation_for_view=A6TRzYYAAAAJ:qjMakFHDy7sC"
   - title: "ASHRAE 2025"
     description: "Optimizing the Geometric Design of Desiccant Wheels"
-    website: ""
+    website: "https://store.accuristech.com/standards/or-25-c067-optimizing-the-geometric-design-of-desiccant-wheels-for-drying-controllability-and-desiccant-use?product_id=3017352"
 ---
 
 ## Overview
@@ -34,5 +37,5 @@ Graduate research leader for a DOE-funded project on decarbonizing industrial fo
 
 ## Publications
 
-- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "Comparison of Different Desiccant Wheel Modeling Methods: A Review and Case Study," *2024 ASHRAE Annual Conference*, 2024.
-- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "Optimizing the Geometric Design of Desiccant Wheels for Drying Controllability and Desiccant Use," *2025 ASHRAE Winter Conference*, 2025.
+- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "[Comparison of Different Desiccant Wheel Modeling Methods: A Review and Case Study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6TRzYYAAAAJ&citation_for_view=A6TRzYYAAAAJ:qjMakFHDy7sC)," *2024 ASHRAE Annual Conference*, 2024.
+- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "[Optimizing the Geometric Design of Desiccant Wheels for Drying Controllability and Desiccant Use](https://store.accuristech.com/standards/or-25-c067-optimizing-the-geometric-design-of-desiccant-wheels-for-drying-controllability-and-desiccant-use?product_id=3017352)," *2025 ASHRAE Winter Conference*, 2025.
