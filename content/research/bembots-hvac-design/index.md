@@ -10,20 +10,20 @@ tags:
   - Automation
 categories:
   - HVAC Automation
-links:
-  - title: Paper (AiC 2025)
-    description: "Automated layout generation of HVAC piping from building floor plans"
-    website: "https://doi.org/10.1016/j.autcon.2025.106359"
-  - title: Paper (conference 2024)
-    description: "Automatic design of HVAC water system pipelines based on multi-agent ant colony algorithm"
-    website: "https://doi.org/10.69357/asim2024.1302"
-  - title: Paper (AiC 2023)
-    description: "BIM-Based Automated Multi-Air Distribution Layout Generation for Office Buildings: A Case Study"
-    website: "https://doi.org/10.3390/buildings13071819"
+# links:
+#   - title: Paper (AiC 2025)
+#     description: "Automated layout generation of HVAC piping from building floor plans"
+#     website: "https://doi.org/10.1016/j.autcon.2025.106359"
+#   - title: Paper (conference 2024)
+#     description: "Automatic design of HVAC water system pipelines based on multi-agent ant colony algorithm"
+#     website: "https://doi.org/10.69357/asim2024.1302"
+#   - title: Paper (AiC 2023)
+#     description: "BIM-Based Automated Multi-Air Distribution Layout Generation for Office Buildings: A Case Study"
+#     website: "https://doi.org/10.3390/buildings13071819"
 
-  - title: Paper (AiC 2022)
-    description: "Rule-based generation of HVAC duct routing"
-    website: "https://doi.org/10.1016/j.autcon.2022.104264"
+#   - title: Paper (AiC 2022)
+#     description: "Rule-based generation of HVAC duct routing"
+#     website: "https://doi.org/10.1016/j.autcon.2022.104264"
 ---
 
 ## Overview

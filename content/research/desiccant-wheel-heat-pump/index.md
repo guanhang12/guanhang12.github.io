@@ -11,16 +11,16 @@ tags:
   - Dymola
 categories:
   - Energy Systems
-links:
-  - title: "Project Page"
-    description: "DOE DWHP Project at TAMU HVAC Lab"
-    website: "https://hvac.engr.tamu.edu/doe-dwhp-project/"
-  - title: "ASHRAE 2024"
-    description: "Comparison of Different Desiccant Wheel Modeling Methods"
-    website: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6TRzYYAAAAJ&citation_for_view=A6TRzYYAAAAJ:qjMakFHDy7sC"
-  - title: "ASHRAE 2025"
-    description: "Optimizing the Geometric Design of Desiccant Wheels"
-    website: "https://store.accuristech.com/standards/or-25-c067-optimizing-the-geometric-design-of-desiccant-wheels-for-drying-controllability-and-desiccant-use?product_id=3017352"
+# links:
+#   - title: "Project Page"
+#     description: "DOE DWHP Project at TAMU HVAC Lab"
+#     website: "https://hvac.engr.tamu.edu/doe-dwhp-project/"
+#   - title: "ASHRAE 2024"
+#     description: "Comparison of Different Desiccant Wheel Modeling Methods"
+#     website: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6TRzYYAAAAJ&citation_for_view=A6TRzYYAAAAJ:qjMakFHDy7sC"
+#   - title: "ASHRAE 2025"
+#     description: "Optimizing the Geometric Design of Desiccant Wheels"
+#     website: "https://store.accuristech.com/standards/or-25-c067-optimizing-the-geometric-design-of-desiccant-wheels-for-drying-controllability-and-desiccant-use?product_id=3017352"
 ---
 
 ## Overview
