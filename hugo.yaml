@@ -24,7 +24,7 @@ params:
     compact: false
     emoji: ""
     subtitle: "<One-sentence research tagline, e.g. PhD Candidate · Building Energy · ML>"
-    avatar: img/avatar.png
+    avatar: ""  # 添加头像时：把图片放到 assets/img/avatar.png，然后改为 avatar: img/avatar.png
 
   footer:
     since: 2024
