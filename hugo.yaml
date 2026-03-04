@@ -23,7 +23,7 @@ params:
   sidebar:
     compact: false
     emoji: ""
-    subtitle: "<One-sentence research tagline, e.g. PhD Candidate · Building Energy · ML>"
+    subtitle: "<Ph.D student at Texas A&M University>"
     avatar: ""  # 添加头像时：把图片放到 assets/img/avatar.png，然后改为 avatar: img/avatar.png
 
   footer:
@@ -100,22 +100,22 @@ menu:
   social:
     - identifier: github
       name: GitHub
-      url: "https://github.com/<username>"
+      url: "https://github.com/guanhang12"
       params:
         icon: brand-github
     - identifier: scholar
       name: Google Scholar
-      url: "https://scholar.google.com/citations?user=<scholar_id>"
+      url: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=A6TRzYYAAAAJ"
       params:
         icon: school
     - identifier: linkedin
       name: LinkedIn
-      url: "https://linkedin.com/in/<linkedin_id>"
+      url: "https://www.linkedin.com/in/hang-guan-4763752a6/"
       params:
         icon: brand-linkedin
     - identifier: email
       name: Email
-      url: "mailto:<your_email>"
+      url: "h_guan@tamu.edu"
       params:
         icon: mail
 

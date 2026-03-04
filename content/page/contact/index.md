@@ -7,17 +7,17 @@ I am always happy to connect. Feel free to reach out through any of the channels
 
 | | |
 |---|---|
-| **Email** | [<your_email>](mailto:<your_email>) |
-| **GitHub** | [github.com/<username>](https://github.com/<username>) |
-| **LinkedIn** | [linkedin.com/in/<linkedin_id>](https://linkedin.com/in/<linkedin_id>) |
-| **Google Scholar** | [Scholar Profile](https://scholar.google.com/citations?user=<scholar_id>) |
+| **Email** | [h_guan@tamu.edu]|
+| **GitHub** | [https://github.com/guanhang12] |
+| **LinkedIn** | [https://www.linkedin.com/in/hang-guan-4763752a6/]|
+| **Google Scholar** | [https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=A6TRzYYAAAAJ]|
 | **Office** | <Room Number, Building, University> |
 
 ---
 
 ### Mailing Address
 
-<Department Name>
-<University Name>
-<Street Address>
-<City, State ZIP, Country>
+<J. Mike Walker ’66 Department of Mechanical Engineering>
+<Texas A&M University>
+<3127 TAMU>
+<College Station, TX 77843, United States>
