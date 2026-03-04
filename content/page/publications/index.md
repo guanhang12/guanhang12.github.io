@@ -5,7 +5,6 @@ slug: publications
 
 ## Journal Articles
 
-### 2025
 
 **Automated layout generation of HVAC piping from building floor plans**  
 Junjie Li, **Hang Guan**, Peng Xu, Jiefan Gu, Liyan Dong  
@@ -13,8 +12,6 @@ Junjie Li, **Hang Guan**, Peng Xu, Jiefan Gu, Liyan Dong
 [DOI](https://doi.org/10.1016/j.autcon.2025.106359)
 
 ---
-
-### 2023
 
 **Multi-Zone Infection Risk Assessment Model of Airborne Virus Transmission on a Cruise Ship Using CONTAM**  
 Zhuang Xia, **Hang Guan**, Xiaolei Yuan, Tian Xie, Peng Xu  
@@ -29,8 +26,6 @@ Zixuan Qi, Ruiying Jin, Junjie Li, **Hang Guan**, Peng Xu
 [DOI](https://doi.org/10.3390/buildings13071819)
 
 ---
-
-### 2022
 
 **Automatic fault diagnosis algorithm for hot water pipes based on infrared thermal images**  
 **Hang Guan**, Tong Xiao, Wei Luo, Jiefan Gu, Ruikai He, Peng Xu  
@@ -48,7 +43,6 @@ Zhisen Chen, **Hang Guan**, Xiaolei Yuan, Tian Xie, Peng Xu
 
 ## Conference Papers
 
-### 2025
 
 **Optimizing the Geometric Design of Desiccant Wheels for Drying Controllability and Desiccant Use**  
 **Hang Guan**, Mingzhe Liu, Zhiyao Yang, Zheng O’Neill  
@@ -56,7 +50,6 @@ Zhisen Chen, **Hang Guan**, Xiaolei Yuan, Tian Xie, Peng Xu
 
 ---
 
-### 2024
 
 **Comparison of Different Desiccant Wheel Modeling Methods: A Review and Case Study**  
 **Hang Guan**, Mingzhe Liu, Zhiyao Yang, Zheng O’Neill  

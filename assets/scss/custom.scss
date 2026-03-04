@@ -164,6 +164,25 @@
     margin-right: auto;
 }
 
+/* ---- Tag chips — softer colors ---- */
+.article-category a,
+.article-list .article-category a {
+    background: var(--accent-light) !important;
+    color: var(--accent-color) !important;
+    border: none !important;
+    font-size: 0.78rem;
+    padding: 0.15rem 0.55rem;
+    border-radius: 4px;
+    opacity: 0.85;
+}
+
+.tag-cloud .tag,
+a[class*="tag-"] {
+    background: var(--accent-light) !important;
+    color: var(--accent-color) !important;
+    border: none !important;
+}
+
 /* ---- Project card hover refinement ---- */
 .article-list article {
     transition: box-shadow 0.2s, transform 0.15s;
@@ -172,6 +191,51 @@
 .article-list article:hover {
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
     transform: translateY(-2px);
+}
+
+/* ---- Inner pages (Publications, CV, Awards, Contact) — compact ---- */
+.article-page .article-content {
+    font-size: 0.92rem;
+    line-height: 1.65;
+}
+
+.article-page .article-content h2 {
+    font-size: 1.15rem;
+    margin-top: 1.6rem;
+    margin-bottom: 0.5rem;
+}
+
+.article-page .article-content h3 {
+    font-size: 1.0rem;
+    margin-top: 1.2rem;
+    margin-bottom: 0.4rem;
+}
+
+.article-page .article-content p {
+    margin-bottom: 0.5rem;
+}
+
+.article-page .article-content ul,
+.article-page .article-content ol {
+    margin-bottom: 0.5rem;
+    padding-left: 1.4em;
+}
+
+.article-page .article-content li {
+    margin-bottom: 0.25rem;
+}
+
+.article-page .article-content hr {
+    margin: 0.8rem 0;
+}
+
+.article-page .article-content table {
+    font-size: 0.88rem;
+}
+
+.article-page .article-content table td,
+.article-page .article-content table th {
+    padding: 0.35rem 0.6rem;
 }
 
 /* ---- Responsive ---- */
