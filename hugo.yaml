@@ -1,0 +1,149 @@
+# ============================================================
+#  Hugo + Stack Theme — Academic Portfolio
+#  Replace every <...> placeholder before deploying
+# ============================================================
+
+baseURL: "https://guanhang12.github.io/"
+languageCode: en
+title: "Hang Guan"
+theme: hugo-theme-stack
+
+permalinks:
+  projects: /project/:slug/
+  page: /:slug/
+
+# --------------- Global Params ---------------
+params:
+  mainSections:
+    - projects
+  featuredImageField: image
+  rssFullContent: true
+  # favicon: /img/favicon.ico
+
+  sidebar:
+    compact: false
+    emoji: ""
+    subtitle: "<One-sentence research tagline, e.g. PhD Candidate · Building Energy · ML>"
+    avatar:
+      enabled: true
+      local: true
+      src: img/avatar.png
+
+  footer:
+    since: 2024
+    customText: ""
+
+  dateFormat:
+    published: Jan 02, 2006
+    lastUpdated: Jan 02, 2006
+
+  article:
+    math: true
+    toc: true
+    readingTime: false
+    license:
+      enabled: false
+
+  comments:
+    enabled: false
+
+  widgets:
+    homepage:
+      - type: search
+      - type: tag-cloud
+        params:
+          limit: 20
+    page:
+      - type: toc
+
+  colorScheme:
+    toggle: true
+    default: auto
+
+  imageProcessing:
+    cover:
+      enabled: true
+    content:
+      enabled: true
+
+# --------------- Navigation ---------------
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+      params:
+        icon: home
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 20
+      params:
+        icon: archive
+    - identifier: publications
+      name: Publications
+      url: /publications/
+      weight: 30
+      params:
+        icon: book
+    - identifier: cv
+      name: CV
+      url: /cv/
+      weight: 40
+      params:
+        icon: file-text
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 50
+      params:
+        icon: mail
+
+  social:
+    - identifier: github
+      name: GitHub
+      url: "https://github.com/<username>"
+      params:
+        icon: brand-github
+    - identifier: scholar
+      name: Google Scholar
+      url: "https://scholar.google.com/citations?user=<scholar_id>"
+      params:
+        icon: school
+    - identifier: linkedin
+      name: LinkedIn
+      url: "https://linkedin.com/in/<linkedin_id>"
+      params:
+        icon: brand-linkedin
+    - identifier: email
+      name: Email
+      url: "mailto:<your_email>"
+      params:
+        icon: mail
+
+# --------------- Related Content ---------------
+related:
+  includeNewer: true
+  threshold: 60
+  toLower: false
+  indices:
+    - name: tags
+      weight: 100
+    - name: categories
+      weight: 200
+
+# --------------- Markup ---------------
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    endLevel: 4
+    ordered: true
+    startLevel: 2
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: false

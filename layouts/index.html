@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{/* ===== Hero Section ===== */}}
+<section class="hero">
+    <div class="hero__inner">
+        <p class="hero__greeting">Hi, I'm</p>
+        <h1 class="hero__name">{{ .Site.Title }}</h1>
+        <p class="hero__tagline">{{ .Site.Params.sidebar.subtitle }}</p>
+        <nav class="hero__actions">
+            <a href="{{ "cv/" | relURL }}" class="btn btn--primary">CV / Resume</a>
+            <a href="{{ "projects/" | relURL }}" class="btn btn--outline">Projects</a>
+            <a href="{{ "publications/" | relURL }}" class="btn btn--outline">Publications</a>
+        </nav>
+    </div>
+</section>
+
+{{/* ===== Impact Strip (from _index.md content) ===== */}}
+{{ .Content }}
+
+{{/* ===== Featured Projects ===== */}}
+<section id="projects" class="home-section">
+    <h2 class="home-section__title">Featured Projects</h2>
+
+    {{ $pages := where site.RegularPages "Type" "in" (site.Params.mainSections | default (slice "post")) }}
+    {{ $notHidden := where site.RegularPages "Params.hidden" "!=" true }}
+    {{ $filtered := intersect $pages $notHidden }}
+    {{ $pag := .Paginate $filtered }}
+
+    {{ range $pag.Pages }}
+        {{ partial "article-list/default" . }}
+    {{ end }}
+
+    {{- partial "pagination.html" . -}}
+</section>
+
+{{/* ===== Contact CTA ===== */}}
+<section class="contact-cta">
+    <h2 class="contact-cta__title">Interested in Collaboration?</h2>
+    <p class="contact-cta__text">I am always open to discussing research opportunities, potential collaborations, or new ideas.</p>
+    <a href="{{ "contact/" | relURL }}" class="btn btn--primary">Get in Touch</a>
+</section>
+
+{{ end }}

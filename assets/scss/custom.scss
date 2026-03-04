@@ -1,0 +1,184 @@
+/* ============================================================
+   Academic Portfolio — Custom Styles for Stack Theme
+   Design: restrained, modern, generous whitespace, single accent
+   ============================================================ */
+
+/* -- Override Stack theme accent color -- */
+:root {
+    --accent-color: #2563eb;
+    --accent-color-darker: #1d4ed8;
+    --accent-color-text: #fff;
+
+    --accent-light: #dbeafe;
+    --text-secondary: #64748b;
+    --border-light: #e2e8f0;
+}
+
+[data-scheme="dark"] {
+    --accent-color: #60a5fa;
+    --accent-color-darker: #93bbfd;
+    --accent-light: rgba(96, 165, 250, 0.12);
+    --text-secondary: #94a3b8;
+    --border-light: #334155;
+}
+
+/* ---- Hero ---- */
+.hero {
+    padding: 3rem 0 2rem;
+    text-align: center;
+}
+
+.hero__greeting {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin-bottom: 0.25rem;
+    letter-spacing: 0.02em;
+}
+
+.hero__name {
+    font-size: 2.4rem;
+    font-weight: 700;
+    margin: 0 0 0.5rem;
+    line-height: 1.2;
+}
+
+.hero__tagline {
+    font-size: 1.1rem;
+    color: var(--text-secondary);
+    max-width: 520px;
+    margin: 0 auto 1.5rem;
+    line-height: 1.6;
+}
+
+.hero__actions {
+    display: flex;
+    gap: 0.75rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+/* ---- Buttons ---- */
+.btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.55rem 1.3rem;
+    border-radius: 6px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none;
+    transition: background 0.2s, box-shadow 0.2s;
+    cursor: pointer;
+    border: 1.5px solid transparent;
+}
+
+.btn--primary {
+    background: var(--accent-color);
+    color: #fff;
+    border-color: var(--accent-color);
+}
+
+.btn--primary:hover {
+    background: var(--accent-color-darker);
+    border-color: var(--accent-color-darker);
+    box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
+}
+
+.btn--outline {
+    background: transparent;
+    color: var(--accent-color);
+    border-color: var(--accent-color);
+}
+
+.btn--outline:hover {
+    background: var(--accent-light);
+}
+
+/* ---- Impact Strip ---- */
+.impact-strip {
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    padding: 2rem 0;
+    margin: 0 0 1.5rem;
+    border-top: 1px solid var(--border-light);
+    border-bottom: 1px solid var(--border-light);
+}
+
+.impact-strip__item {
+    text-align: center;
+}
+
+.impact-strip__number {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--accent-color);
+    line-height: 1.2;
+}
+
+.impact-strip__label {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+/* ---- Section Titles ---- */
+.home-section__title {
+    font-size: 1.3rem;
+    font-weight: 600;
+    margin: 2rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--accent-color);
+    display: inline-block;
+}
+
+/* ---- Contact CTA ---- */
+.contact-cta {
+    text-align: center;
+    padding: 3rem 0 2rem;
+    margin-top: 2rem;
+    border-top: 1px solid var(--border-light);
+}
+
+.contact-cta__title {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.contact-cta__text {
+    color: var(--text-secondary);
+    margin-bottom: 1.2rem;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ---- Project card hover refinement ---- */
+.article-list article {
+    transition: box-shadow 0.2s, transform 0.15s;
+}
+
+.article-list article:hover {
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 640px) {
+    .hero__name {
+        font-size: 1.8rem;
+    }
+    .impact-strip {
+        gap: 1.5rem;
+    }
+    .impact-strip__number {
+        font-size: 1.5rem;
+    }
+    .hero__actions {
+        flex-direction: column;
+        align-items: center;
+    }
+}
