@@ -1,8 +1,8 @@
 ---
 title: "Decarbonizing Industrial Food Drying with Desiccant-Wheel Heat Pump System"
 # description: "Led DOE-funded research on energy-efficient desiccant-wheel heat pump systems for industrial food drying, including modeling, optimization, and life cycle analysis." 
-
-date: 2023-12 - present
+date: 2023-12-01
+dateRange: "Dec 2023 – Present"
 weight: 1
 # tags:
 #   - Heat Pump

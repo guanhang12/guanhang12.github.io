@@ -1,7 +1,8 @@
 ---
 title: "Water-Loop GSHP System for Multi-Family Buildings"
 # description: "Designed and evaluated water-loop ground-source heat pump systems for multi-family buildings during Ph.D. internship at Pacific Northwest National Laboratory."
-date: 2025-05 - 2025-08
+date: 2025-05-01
+dateRange: "May 2025 – Aug 2025"
 weight: 3
 # tags:
 #   - GSHP
