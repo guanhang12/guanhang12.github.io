@@ -5,14 +5,17 @@
     <div class="hero__inner">
         <h1 class="hero__name">{{ .Site.Title }}</h1>
         <p class="hero__tagline">{{ .Site.Params.sidebar.subtitle }}</p>
+        {{ range .Site.Menus.social }}
+        {{ if strings.HasPrefix .URL "mailto:" }}
+        <p class="hero__email">Email: {{ strings.TrimPrefix "mailto:" .URL }}</p>
+        {{ end }}
+        {{ end }}
         <nav class="quicklinks">
             {{ with .Site.Params.cvFile }}
             <a href="{{ . }}" target="_blank">CV</a>
             {{ end }}
             {{ range .Site.Menus.social }}
-            {{ if strings.HasPrefix .URL "mailto:" }}
-            <span class="quicklinks__email">{{ strings.TrimPrefix "mailto:" .URL }}</span>
-            {{ else }}
+            {{ if not (strings.HasPrefix .URL "mailto:") }}
             <a href="{{ .URL }}" target="_blank">{{ .Name }}</a>
             {{ end }}
             {{ end }}

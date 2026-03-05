@@ -36,8 +36,14 @@
 .hero__tagline {
     font-size: 1.1rem;
     color: var(--text-secondary);
-    margin: 0 auto 1.2rem;
+    margin: 0 auto 0.6rem;
     line-height: 1.5;
+}
+
+.hero__email {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    margin: 0 0 0.8rem;
 }
 .sidebar {
     font-size: 0.85rem;
