@@ -18,7 +18,7 @@ A prestigious national award recognizing outstanding academic performance among 
 **National Endeavor Scholarship** — Ministry of Education of China (2017–2019, three times)  
 National-level scholarship awarded to students with excellent academic achievements.
 
----
+
 
 ## Academic Honors
 
@@ -40,7 +40,7 @@ Recognized for exceptional academic performance within the department.
 **Outstanding Student** — Zhengzhou University (Jun 2020)  
 Selected as an outstanding undergraduate student based on academic performance and contributions.
 
----
+
 
 ## Competition Awards
 

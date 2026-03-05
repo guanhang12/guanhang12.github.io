@@ -28,7 +28,7 @@ slug: experience
 - Conducted experimental studies on a microencapsulated phase change material (PCM)-based thermal management system for electric vehicles.  
 - Evaluated heat dissipation and thermal regulation performance of PCM under various operating conditions.
 
----
+
 
 ## Work Experience
 
@@ -38,7 +38,7 @@ slug: experience
 - Designed and sized borefield configurations for water-loop ground-source heat pump (GSHP) systems in multi-family residential buildings.  
 - Evaluated system performance and optimization potential through simulation-based analysis.
 
----
+
 ## Teaching
 
 ### Invited Guest Lecturer  
@@ -54,7 +54,7 @@ slug: experience
 - Assisted in teaching the undergraduate course *Air Conditioning Engineering*.  
 - Supported lectures, graded assignments and examinations, and provided feedback to students.
 
----
+
 
 ## Professional Service
 
