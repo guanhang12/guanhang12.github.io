@@ -4,36 +4,13 @@ title: Home
 
 ## About Me
 
-### Texas A&M University — Texas, USA  
-**Ph.D. in Mechanical Engineering** (GPA: 4.0/4.0)  
-Expected May 2027  
+I am a **Ph.D. student in Mechanical Engineering at Texas A&M University**, advised by  
+**[Dr. Zheng O’Neill](https://engineering.tamu.edu/mechanical/profiles/oneill-zheng.html)** in the  
+[Building Energy and HVAC&R Group](https://hvac.engr.tamu.edu/).
 
-Advisor: **[Dr. Zheng O’Neill](https://engineering.tamu.edu/mechanical/profiles/oneill-zheng.html)**  
-[Building Energy and HVAC&R Group](https://hvac.engr.tamu.edu/)  
+My research focuses on **energy-efficient HVAC systems**, including system modeling, scientific machine learning, and optimal control for building energy systems.
 
-Coursework:  
-Application of Energy Management, Energy Management in Commercial Buildings,  
-Solar Energy Engineering, Multidisciplinary System Analysis and Design Optimization  
-
----
-
-### Tongji University — Shanghai, China  
-**Master of Engineering** (GPA: 4.65/5.0)  
-Mar 2023  
-
-Advisor: **[Dr. Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Graduate_students.htm)**  
-Coursework:  
-Principle of Building Automation Control, Test and Measurement Techniques of HVAC,  
-Building Energy Efficiency Technology  
-
----
-
-### Zhengzhou University — Zhengzhou, China  
-**Bachelor of Engineering** (GPA: 4.65/5.0, Rank: Top 1.45%)  
-Jun 2020  
-
-Coursework:  
-Heat Transfer, Engineering Thermodynamics, Fluid Mechanics, Built Environment  
+Before joining Texas A&M, I received a **Master of Engineering from Tongji University** under the supervision of **[Dr. Peng Xu](https://a434.tongji.edu.cn/english/GROUP/Graduate_students.htm)**, and a **Bachelor of Engineering from Zhengzhou University**, both in **Building Environment and Energy Engineering**. 
 
 ## Research Interests
 

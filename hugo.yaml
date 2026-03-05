@@ -49,8 +49,7 @@ params:
       - type: tag-cloud
         params:
           limit: 20
-    page:
-      - type: toc
+    page: []
 
   colorScheme:
     toggle: true
