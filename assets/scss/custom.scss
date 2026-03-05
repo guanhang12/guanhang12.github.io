@@ -212,10 +212,10 @@
 }
 
 .article-time {
-    font-size: 13px;
+    font-size: 13px !important;
 }
 .article-tags a {
-    font-size: 1rem;
+    font-size: 0.95rem;
     background: var(--accent-light) !important;
     color: var(--accent-color) !important;
     border: none !important;

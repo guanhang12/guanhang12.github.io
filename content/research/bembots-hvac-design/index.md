@@ -1,15 +1,15 @@
 ---
 title: "BEMBOTS: Automatic Design Tool for HVAC Systems"
-description: "Contributed to an automatic HVAC system design tool, focusing on water system pipe routing optimization using multi-agent ant colony algorithm."
-date: 2020-04-01
+# description: "Contributed to an automatic HVAC system design tool, focusing on water system pipe routing optimization using multi-agent ant colony algorithm."
+date: 2020-04 to 2023-03
 weight: 6
-tags:
-  - BIM
-  - Optimization
-  - Ant Colony Algorithm
-  - Automation
+# tags:
+#   - BIM
+#   - Optimization
+#   - Ant Colony Algorithm
+#   - Automation
 categories:
-  - HVAC Automation
+  - Building automation
 # links:
 #   - title: Paper (AiC 2025)
 #     description: "Automated layout generation of HVAC piping from building floor plans"

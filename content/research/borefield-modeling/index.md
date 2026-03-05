@@ -1,14 +1,14 @@
 ---
 title: "Geothermal Borefield System Modeling and Advanced Control"
-description: "Developing scalable borefield models using scientific machine learning and advanced control strategies for geothermal system operations."
-date: 2025-10-01
+# description: "Developing scalable borefield models using scientific machine learning and advanced control strategies for geothermal system operations."
+date: 2025-10 to present
 weight: 2
-tags:
-  - Scientific ML
-  - Geothermal
-  - Advanced Control
+# tags:
+#   - Scientific ML
+#   - Geothermal
+#   - Advanced Control
 categories:
-  - Energy Systems
+  - Advanced HVAC system
 ---
 
 ## Overview

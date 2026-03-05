@@ -46,9 +46,6 @@ params:
   widgets:
     homepage:
       - type: search
-      - type: tag-cloud
-        params:
-          limit: 20
     page: []
 
   colorScheme:

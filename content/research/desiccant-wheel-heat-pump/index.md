@@ -1,16 +1,16 @@
 ---
 title: "Decarbonizing Industrial Food Drying with Desiccant-Wheel Heat Pump System"
-description: "Led DOE-funded research on energy-efficient desiccant-wheel heat pump systems for industrial food drying, including modeling, optimization, and life cycle analysis." 
+# description: "Led DOE-funded research on energy-efficient desiccant-wheel heat pump systems for industrial food drying, including modeling, optimization, and life cycle analysis." 
 
-date: 2023-12-01
+date: 2023-12 - present
 weight: 1
-tags:
-  - Heat Pump
-  - Desiccant Wheel
-  - CFD
-  - Dymola
+# tags:
+#   - Heat Pump
+#   - Desiccant Wheel
+#   - CFD
+#   - Dymola
 categories:
-  - Energy Systems
+  - Advanced HVAC Systems
 # links:
 #   - title: "Project Page"
 #     description: "DOE DWHP Project at TAMU HVAC Lab"
