@@ -4,9 +4,7 @@ title: Home
 
 ## About Me
 
-I am a **Ph.D. student in Mechanical Engineering at Texas A&M University**, advised by  
-**[Dr. Zheng O’Neill](https://engineering.tamu.edu/mechanical/profiles/oneill-zheng.html)** in the  
-[Building Energy and HVAC&R Group](https://hvac.engr.tamu.edu/).
+I am a **Ph.D. student in Mechanical Engineering at Texas A&M University**, advised by  **[Dr. Zheng O’Neill](https://engineering.tamu.edu/mechanical/profiles/oneill-zheng.html)** in the [Building Energy and HVAC&R Group](https://hvac.engr.tamu.edu/).
 
 My research focuses on **energy-efficient HVAC systems**, including system modeling, scientific machine learning, and optimal control for building energy systems.
 
@@ -22,17 +20,12 @@ Before joining Texas A&M, I received a **Master of Engineering from Tongji Unive
 
 ## Skills
 
-**Programming**
-Python, Modelica, Julia
+- Programming：Python, Modelica, Julia
 
-**Simulation & Engineering Tools**
-Dymola, EnergyPlus, CONTAM, CFD, SolarPILOT, GLHEPro
+- Simulation & Engineering Tools：Dymola, EnergyPlus, CONTAM, CFD, SolarPILOT, GLHEPro
 
-**Experimental & Data Acquisition**
-LabVIEW
+- Experimental & Data Acquisition：LabVIEW
 
-**Computing & Development**
-HPRC (High Performance Research Computing), Visual Studio Code
+- Computing & Development：HPRC (High Performance Research Computing), Visual Studio Code
 
-**Design & Engineering Software**
-Revit, AutoCAD
+- Design & Engineering Software：Revit, AutoCAD
