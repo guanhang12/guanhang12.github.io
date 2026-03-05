@@ -1,10 +1,23 @@
 {{ define "main" }}
-<article class="article-page">
+<section class="research-list-page">
     <header class="article-header">
         <h1>{{ .Title }}</h1>
     </header>
-    <div class="article-content">
-        {{ .Content }}
+
+    {{ with .Content }}
+    <div class="research-intro">
+        {{ . }}
     </div>
-</article>
+    {{ end }}
+
+    <div class="research-cards">
+        {{ $pages := .Pages.ByWeight }}
+        {{ range $pages }}
+        <a href="{{ .Permalink }}" class="research-card">
+            <strong>{{ .Title }}</strong>
+            <span>{{ .Description }}</span>
+        </a>
+        {{ end }}
+    </div>
+</section>
 {{ end }}

@@ -273,6 +273,52 @@ a[class*="tag-"] {
     padding: 0.35rem 0.6rem;
 }
 
+/* ---- Research list page ---- */
+.research-list-page {
+    max-width: 800px;
+}
+
+.research-intro {
+    font-size: 0.92rem;
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.research-cards {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+
+.research-card {
+    display: block;
+    padding: 0.9rem 1.1rem;
+    border-radius: 6px;
+    border: 1px solid var(--border-light);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.research-card:hover {
+    border-color: var(--accent-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.research-card strong {
+    display: block;
+    font-size: 0.95rem;
+    margin-bottom: 0.2rem;
+}
+
+.research-card span {
+    font-size: 0.84rem;
+    color: var(--text-secondary);
+    display: block;
+    line-height: 1.45;
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 640px) {
     .hero__name {
