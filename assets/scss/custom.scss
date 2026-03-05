@@ -349,6 +349,14 @@ a[class*="tag-"] {
     line-height: 1.45;
 }
 
+/* ---- Footer ---- */
+footer.site-footer {
+    font-size: 12px !important;
+}
+footer.site-footer .powerby {
+    font-size: 11px !important;
+}
+
 /* ---- Responsive ---- */
 @media (max-width: 640px) {
     .hero__name {
