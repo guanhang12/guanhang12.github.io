@@ -21,11 +21,7 @@ Before joining Texas A&M, I received a **Master of Engineering from Tongji Unive
 ## Skills
 
 - Programming：Python, Modelica, Julia
-
 - Simulation & Engineering Tools：Dymola, EnergyPlus, CONTAM, CFD, SolarPILOT, GLHEPro
-
 - Experimental & Data Acquisition：LabVIEW
-
 - Computing & Development：HPRC (High Performance Research Computing), Visual Studio Code
-
 - Design & Engineering Software：Revit, AutoCAD

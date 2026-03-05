@@ -17,13 +17,13 @@ params:
     - research
   featuredImageField: image
   rssFullContent: true
-  cvFile: "/files/Hang_Guan_CV.pdf"
+  cvFile: "/files/Hang Guan_Resume_.pdf"
 
   sidebar:
     compact: false
     emoji: ""
     subtitle: "Ph.D. Student · Mechanical Engineering · Texas A&M University"
-    avatar: ""
+    avatar: "assets/img/Image.png"
 
   footer:
     since: 2020
