@@ -9,7 +9,7 @@
     --accent-light: #dbeafe;
     --text-secondary: #64748b;
     --border-light: #e2e8f0;
-    font-size: 16px;
+    font-size: 17px;
 }
 
 [data-scheme="dark"] {
@@ -41,7 +41,7 @@
 }
 
 .hero__email {
-    font-size: 0.9rem;
+    font-size: 1 rem;
     color: var(--text-secondary);
     margin: 0 0 0.8rem;
 }
@@ -58,7 +58,7 @@
 }
 
 .sidebar .menu li {
-    font-size: 0.88rem;
+    font-size: 1rem;
 }
 /* ---- Quick links (CV · Email · Scholar · ...) ---- */
 .quicklinks {
@@ -71,7 +71,7 @@
 .quicklinks a {
     color: var(--accent-color);
     text-decoration: none;
-    font-size: 0.95rem;
+    font-size: 1.1rem;
     font-weight: 500;
     padding: 0.3rem 0;
     border-bottom: 1.5px solid transparent;
@@ -84,8 +84,8 @@
 
 /* ---- Homepage content (About Me, Research Interests) ---- */
 .home-content {
-    margin-top: 1.5rem;
-    font-size: 0.92rem;
+    margin-top: 0.5rem;
+    font-size: 0.95rem;
     line-height: 1.7;
 }
 
@@ -207,14 +207,26 @@
 .research-list-page h1 {
     font-size: 22px !important;
 }
+.article-subtitle {
+    font-size: 16px !important;
+}
 
+.article-time {
+    font-size: 13px;
+}
+.article-tags a {
+    font-size: 1rem;
+    background: var(--accent-light) !important;
+    color: var(--accent-color) !important;
+    border: none !important;
+}
 /* ---- Tag chips — softer colors ---- */
 .article-category a,
 .article-list .article-category a {
     background: var(--accent-light) !important;
     color: var(--accent-color) !important;
     border: none !important;
-    font-size: 0.78rem;
+    font-size: 1.1rem;
     padding: 0.15rem 0.55rem;
     border-radius: 4px;
     opacity: 0.85;
@@ -244,7 +256,7 @@ a[class*="tag-"] {
 }
 
 .article-page .article-content h2 {
-    font-size: 1.15rem;
+    font-size: 1.2rem;
     margin-top: 2.5rem;
     margin-bottom: 0.6rem;
     padding-top: 1.5rem;

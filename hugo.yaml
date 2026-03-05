@@ -118,15 +118,15 @@ menu:
         icon: mail
 
 # --------------- Related Content ---------------
-related:
-  includeNewer: true
-  threshold: 60
-  toLower: false
-  indices:
-    - name: tags
-      weight: 100
-    - name: categories
-      weight: 200
+# related:
+#   includeNewer: true
+#   threshold: 60
+#   toLower: false
+#   indices:
+#     - name: tags
+#       weight: 100
+#     - name: categories
+#       weight: 200
 
 # --------------- Markup ---------------
 markup:
