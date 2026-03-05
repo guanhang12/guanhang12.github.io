@@ -1,14 +1,11 @@
 /* ============================================================
    Academic Portfolio — Custom Styles for Stack Theme
-   Design: restrained, modern, generous whitespace, single accent
    ============================================================ */
 
-/* -- Override Stack theme accent color -- */
 :root {
     --accent-color: #2563eb;
     --accent-color-darker: #1d4ed8;
     --accent-color-text: #fff;
-
     --accent-light: #dbeafe;
     --text-secondary: #64748b;
     --border-light: #e2e8f0;
@@ -24,40 +21,141 @@
 
 /* ---- Hero ---- */
 .hero {
-    padding: 4rem 0 2.5rem;
+    padding: 3.5rem 0 1.5rem;
     text-align: center;
 }
 
-.hero__greeting {
-    font-size: 1.15rem;
-    color: var(--text-secondary);
-    margin-bottom: 0.3rem;
-    letter-spacing: 0.03em;
-}
-
 .hero__name {
-    font-size: 3.2rem;
+    font-size: 3.0rem;
     font-weight: 700;
-    margin: 0 0 0.6rem;
+    margin: 0 0 0.4rem;
     line-height: 1.15;
 }
 
 .hero__tagline {
-    font-size: 1.25rem;
+    font-size: 1.1rem;
     color: var(--text-secondary);
-    max-width: 560px;
-    margin: 0 auto 2rem;
-    line-height: 1.6;
+    margin: 0 auto 1.2rem;
+    line-height: 1.5;
 }
 
-.hero__actions {
+/* ---- Quick links (CV · Email · Scholar · ...) ---- */
+.quicklinks {
     display: flex;
-    gap: 0.75rem;
+    gap: 1.2rem;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-/* ---- Buttons ---- */
+.quicklinks a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-size: 0.88rem;
+    font-weight: 500;
+    padding: 0.3rem 0;
+    border-bottom: 1.5px solid transparent;
+    transition: border-color 0.2s;
+}
+
+.quicklinks a:hover {
+    border-bottom-color: var(--accent-color);
+}
+
+/* ---- Homepage content (About Me, Research Interests) ---- */
+.home-content {
+    margin-top: 1.5rem;
+    font-size: 0.92rem;
+    line-height: 1.7;
+}
+
+.home-content h2 {
+    font-size: 1.0rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-secondary);
+    margin: 1.8rem 0 0.5rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid var(--accent-color);
+    display: inline-block;
+}
+
+.home-content p {
+    margin-bottom: 0.6rem;
+    max-width: 640px;
+}
+
+.home-content ul {
+    padding-left: 1.2em;
+    margin-bottom: 0.6rem;
+}
+
+.home-content li {
+    margin-bottom: 0.2rem;
+}
+
+/* ---- Selected Research previews ---- */
+.selected-research {
+    margin-top: 2rem;
+}
+
+.section-label {
+    font-size: 1.0rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-secondary);
+    margin: 0 0 0.8rem;
+    padding-bottom: 0.3rem;
+    border-bottom: 2px solid var(--accent-color);
+    display: inline-block;
+}
+
+.research-preview {
+    display: block;
+    padding: 0.7rem 0.9rem;
+    margin-bottom: 0.5rem;
+    border-radius: 6px;
+    border: 1px solid var(--border-light);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.research-preview:hover {
+    border-color: var(--accent-color);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.research-preview strong {
+    display: block;
+    font-size: 0.9rem;
+    margin-bottom: 0.15rem;
+}
+
+.research-preview span {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    display: block;
+    line-height: 1.4;
+}
+
+.view-all {
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+}
+
+.view-all a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.view-all a:hover {
+    text-decoration: underline;
+}
+
+/* ---- Buttons (kept for CV download etc.) ---- */
 .btn {
     display: inline-flex;
     align-items: center;
@@ -84,86 +182,6 @@
     box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
 }
 
-.btn--outline {
-    background: transparent;
-    color: var(--accent-color);
-    border-color: var(--accent-color);
-}
-
-.btn--outline:hover {
-    background: var(--accent-light);
-}
-
-/* ---- Impact Strip ---- */
-.impact-strip {
-    display: flex;
-    justify-content: center;
-    gap: 3rem;
-    padding: 2rem 0;
-    margin: 0 0 1.5rem;
-    border-top: 1px solid var(--border-light);
-    border-bottom: 1px solid var(--border-light);
-}
-
-.impact-strip__item {
-    text-align: center;
-}
-
-.impact-strip__number {
-    display: block;
-    font-size: 2rem;
-    font-weight: 700;
-    color: var(--accent-color);
-    line-height: 1.2;
-}
-
-.impact-strip__label {
-    font-size: 0.85rem;
-    color: var(--text-secondary);
-    text-transform: uppercase;
-    letter-spacing: 0.06em;
-}
-
-/* ---- Section Titles ---- */
-.home-section__title {
-    font-size: 1.05rem;
-    font-weight: 600;
-    margin: 1.5rem 0 0.8rem;
-    padding-bottom: 0.4rem;
-    border-bottom: 2px solid var(--accent-color);
-    display: inline-block;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--text-secondary);
-}
-
-/* ---- Research cards — compact on homepage ---- */
-.home-section .article-list article {
-    font-size: 0.92em;
-}
-
-/* ---- Contact CTA ---- */
-.contact-cta {
-    text-align: center;
-    padding: 3rem 0 2rem;
-    margin-top: 2rem;
-    border-top: 1px solid var(--border-light);
-}
-
-.contact-cta__title {
-    font-size: 1.4rem;
-    font-weight: 600;
-    margin-bottom: 0.5rem;
-}
-
-.contact-cta__text {
-    color: var(--text-secondary);
-    margin-bottom: 1.2rem;
-    max-width: 480px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 /* ---- Tag chips — softer colors ---- */
 .article-category a,
 .article-list .article-category a {
@@ -183,7 +201,7 @@ a[class*="tag-"] {
     border: none !important;
 }
 
-/* ---- Project card hover refinement ---- */
+/* ---- Card hover ---- */
 .article-list article {
     transition: box-shadow 0.2s, transform 0.15s;
 }
@@ -193,7 +211,7 @@ a[class*="tag-"] {
     transform: translateY(-2px);
 }
 
-/* ---- Inner pages (Publications, CV, Awards, Contact) — compact ---- */
+/* ---- Inner pages (Publications, Experience, Awards, etc.) ---- */
 .article-page .article-content {
     font-size: 0.92rem;
     line-height: 1.65;
@@ -243,14 +261,7 @@ a[class*="tag-"] {
     .hero__name {
         font-size: 2.2rem;
     }
-    .impact-strip {
-        gap: 1.5rem;
-    }
-    .impact-strip__number {
-        font-size: 1.5rem;
-    }
-    .hero__actions {
-        flex-direction: column;
-        align-items: center;
+    .quicklinks {
+        gap: 0.8rem;
     }
 }

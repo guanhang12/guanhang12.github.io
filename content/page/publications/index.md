@@ -57,6 +57,12 @@ Zhisen Chen, **Hang Guan**, Xiaolei Yuan, Tian Xie, Peng Xu
 
 ---
 
-**Automatic design of HVAC water system pipelines based on multi-agent ant colony algorithm**  
-Junjie Li, **Hang Guan**, Peng Xu  
+**Automatic design of HVAC water system pipelines based on multi-agent ant colony algorithm**
+Junjie Li, **Hang Guan**, Peng Xu
 *5th Asia Conference of IBPSA*, 2024.
+
+---
+
+## Book Chapters
+
+Acknowledged contribution to **Section 1.1** of *High-Efficiency Chiller Plants in the AI Era* (Chinese edition, ISBN: 9787112280827), China Architecture & Building Press, 2023.

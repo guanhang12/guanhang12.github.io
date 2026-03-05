@@ -1,40 +1,38 @@
 {{ define "main" }}
 
-{{/* ===== Hero Section ===== */}}
+{{/* ===== Hero ===== */}}
 <section class="hero">
     <div class="hero__inner">
-        <p class="hero__greeting">Hi, I'm</p>
         <h1 class="hero__name">{{ .Site.Title }}</h1>
         <p class="hero__tagline">{{ .Site.Params.sidebar.subtitle }}</p>
-        <nav class="hero__actions">
-            <a href="{{ "cv/" | relURL }}" class="btn btn--primary">CV / Resume</a>
-            <a href="{{ "research/" | relURL }}" class="btn btn--outline">Research</a>
-            <a href="{{ "publications/" | relURL }}" class="btn btn--outline">Publications</a>
+        <nav class="quicklinks">
+            {{ with .Site.Params.cvFile }}
+            <a href="{{ . }}" target="_blank">CV</a>
+            {{ end }}
+            {{ range .Site.Menus.social }}
+            <a href="{{ .URL }}" {{ if not (strings.HasPrefix .URL "mailto:") }}target="_blank"{{ end }}>{{ .Name }}</a>
+            {{ end }}
         </nav>
     </div>
 </section>
 
-{{/* ===== Research Experience ===== */}}
-<section id="research" class="home-section">
-    <h2 class="home-section__title">Research Experience</h2>
+{{/* ===== About Me + Research Interests (from _index.md) ===== */}}
+<div class="home-content">
+    {{ .Content }}
+</div>
 
-    {{ $pages := where site.RegularPages "Type" "in" (site.Params.mainSections | default (slice "post")) }}
-    {{ $notHidden := where site.RegularPages "Params.hidden" "!=" true }}
-    {{ $filtered := intersect $pages $notHidden }}
-    {{ $pag := .Paginate $filtered }}
-
-    {{ range $pag.Pages }}
-        {{ partial "article-list/default" . }}
+{{/* ===== Selected Research (top 3) ===== */}}
+<section class="selected-research">
+    <h2 class="section-label">Selected Research</h2>
+    {{ $pages := where site.RegularPages "Type" "research" }}
+    {{ $visible := where $pages "Params.hidden" "!=" true }}
+    {{ range first 3 ($visible.ByWeight) }}
+    <a href="{{ .Permalink }}" class="research-preview">
+        <strong>{{ .Title }}</strong>
+        <span>{{ .Description }}</span>
+    </a>
     {{ end }}
-
-    {{- partial "pagination.html" . -}}
-</section>
-
-{{/* ===== Contact CTA ===== */}}
-<section class="contact-cta">
-    <h2 class="contact-cta__title">Interested in Collaboration?</h2>
-    <p class="contact-cta__text">I am always open to discussing research opportunities, potential collaborations, or new ideas.</p>
-    <a href="{{ "contact/" | relURL }}" class="btn btn--primary">Get in Touch</a>
+    <p class="view-all"><a href="{{ "research/" | relURL }}">View all research &rarr;</a></p>
 </section>
 
 {{ end }}

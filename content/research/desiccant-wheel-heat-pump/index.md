@@ -24,7 +24,7 @@ categories:
 ---
 
 ## Overview
-Graduate research leader for a "[DOE-funded project](https://hvac.engr.tamu.edu/doe-dwhp-project/)" on decarbonizing industrial food drying processes using energy-efficient desiccant-wheel heat pump (DWHP) systems. This work combines advanced thermodynamic modeling with optimization to design next-generation drying systems.
+Graduate research leader for a [DOE-funded project](https://hvac.engr.tamu.edu/doe-dwhp-project/) on decarbonizing industrial food drying processes using energy-efficient desiccant-wheel heat pump (DWHP) systems. This work combines advanced thermodynamic modeling with optimization to design next-generation drying systems.
 
 **Key Methods:** `Dymola` · `CFD` · `Life Cycle Analysis` · `System Virtual Testbed`
 

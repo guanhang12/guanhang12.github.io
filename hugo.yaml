@@ -17,12 +17,13 @@ params:
     - research
   featuredImageField: image
   rssFullContent: true
+  cvFile: "/files/Hang_Guan_CV.pdf"
 
   sidebar:
     compact: false
     emoji: ""
     subtitle: "Ph.D. Student · Mechanical Engineering · Texas A&M University"
-    avatar: ""  # 添加头像时：把图片放到 assets/img/avatar.png，然后改为 avatar: img/avatar.png
+    avatar: ""
 
   footer:
     since: 2020
@@ -82,24 +83,18 @@ menu:
       weight: 30
       params:
         icon: book
+    - identifier: experience
+      name: Experience
+      url: /experience/
+      weight: 40
+      params:
+        icon: briefcase
     - identifier: awards
       name: Awards
       url: /awards/
-      weight: 40
-      params:
-        icon: award
-    - identifier: cv
-      name: CV
-      url: /cv/
       weight: 50
       params:
-        icon: file-text
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 60
-      params:
-        icon: mail
+        icon: award
 
   social:
     - identifier: github
