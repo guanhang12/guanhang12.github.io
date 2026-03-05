@@ -12,7 +12,6 @@ slug: experience
 - Developed scalable borefield thermal modeling frameworks using physics-integrated neural networks for geothermal heat pump system prediction and control.  
 - Conducted fault impact analysis for 5th-generation district heating and cooling (5GDHC) networks to evaluate energy performance and thermal stability under different fault scenarios as part of the project *“PIRE: Building Decarbonization via AI-empowered District Heat Pump Systems.”*
 
----
 
 ### Research Assistant  
 **Tongji University** | Sep 2020 – Mar 2023
@@ -21,7 +20,7 @@ slug: experience
 - Established a multi-zone airborne infection risk assessment framework by coupling airflow modeling with epidemiological risk models.  
 - Conducted a case study on cruise ship ventilation systems to evaluate infection risk under different airflow scenarios.
 
----
+
 
 ### Undergraduate Researcher  
 **Zhengzhou University** | May 2018 – May 2019
@@ -40,7 +39,6 @@ slug: experience
 - Evaluated system performance and optimization potential through simulation-based analysis.
 
 ---
-
 ## Teaching
 
 ### Invited Guest Lecturer  
@@ -49,7 +47,6 @@ slug: experience
 - Delivered a lecture titled *“High Performance Buildings from the Perspective of HVAC Systems.”*  
 - Guest lecture for **AREN 300 (Undergraduate Course)** on building energy systems and HVAC technologies.
 
----
 
 ### Teaching Assistant  
 **Tongji University** | Spring 2021
