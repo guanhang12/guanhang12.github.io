@@ -9,6 +9,7 @@
     --accent-light: #dbeafe;
     --text-secondary: #64748b;
     --border-light: #e2e8f0;
+    font-size: 18px;
 }
 
 [data-scheme="dark"] {
@@ -98,7 +99,9 @@
 .selected-research {
     margin-top: 2rem;
 }
-
+.widget--toc {
+    font-size: 0.72rem;
+}
 .section-label {
     font-size: 1.0rem;
     font-weight: 600;
