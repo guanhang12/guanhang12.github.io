@@ -20,9 +20,9 @@ params:
   cvFile: "/files/Hang Guan_Resume_.pdf"
 
   sidebar:
-    compact: false
+    compact: True
     emoji: ""
-    subtitle: "Ph.D. Student · Mechanical Engineering · Texas A&M University"
+    subtitle: "" #Ph.D. Student · Mechanical Engineering · Texas A&M University
     avatar: "img/Image.png"
 
   footer:
