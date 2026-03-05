@@ -49,12 +49,12 @@
     font-size: 0.85rem;
 }
 
-.sidebar .site-name {
-    font-size: 18px;
+.site-name {
+    font-size: 18px !important;
 }
 
-.sidebar .site-description {
-    font-size: 14px;
+.site-description {
+    font-size: 12px !important;
 }
 
 .sidebar .menu li {
@@ -203,11 +203,10 @@
     border-color: var(--accent-color-darker);
     box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
 }
-// .article-header h1,
-// .article-page .article-title,
-// .research-list-page h1 {
-//     font-size: 26px !important;
-// }
+.article-title,
+.research-list-page h1 {
+    font-size: 22px !important;
+}
 
 /* ---- Tag chips — softer colors ---- */
 .article-category a,
