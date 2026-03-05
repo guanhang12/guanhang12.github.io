@@ -44,11 +44,11 @@
 }
 
 .sidebar .site-name {
-    font-size: 1.4rem;
+    font-size: 1.1rem;
 }
 
 .sidebar .site-description {
-    font-size: 0.78rem;
+    font-size: 0.5rem;
 }
 
 .sidebar .menu li {
@@ -197,6 +197,9 @@
     border-color: var(--accent-color-darker);
     box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
 }
+.article-header h1,
+.research-list-page h1 {
+    font-size: 1.5rem;
 
 /* ---- Tag chips — softer colors ---- */
 .article-category a,
@@ -282,7 +285,7 @@ a[class*="tag-"] {
 
 /* ---- Research list page ---- */
 .research-list-page {
-    max-width: 1280px;
+    max-width: 100%;
 }
 
 .research-intro {

@@ -10,7 +10,11 @@
             <a href="{{ . }}" target="_blank">CV</a>
             {{ end }}
             {{ range .Site.Menus.social }}
-            <a href="{{ .URL }}" {{ if not (strings.HasPrefix .URL "mailto:") }}target="_blank"{{ end }}>{{ .Name }}</a>
+            {{ if strings.HasPrefix .URL "mailto:" }}
+            <span class="quicklinks__email">{{ strings.TrimPrefix "mailto:" .URL }}</span>
+            {{ else }}
+            <a href="{{ .URL }}" target="_blank">{{ .Name }}</a>
+            {{ end }}
             {{ end }}
         </nav>
     </div>
