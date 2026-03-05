@@ -39,7 +39,21 @@
     margin: 0 auto 1.2rem;
     line-height: 1.5;
 }
+.sidebar {
+    font-size: 0.85rem;
+}
 
+.sidebar .site-name {
+    font-size: 1.4rem;
+}
+
+.sidebar .site-description {
+    font-size: 0.78rem;
+}
+
+.sidebar .menu li {
+    font-size: 0.88rem;
+}
 /* ---- Quick links (CV · Email · Scholar · ...) ---- */
 .quicklinks {
     display: flex;
@@ -51,7 +65,7 @@
 .quicklinks a {
     color: var(--accent-color);
     text-decoration: none;
-    font-size: 0.88rem;
+    font-size: 0.95rem;
     font-weight: 500;
     padding: 0.3rem 0;
     border-bottom: 1.5px solid transparent;
