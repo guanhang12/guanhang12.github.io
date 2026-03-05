@@ -23,7 +23,7 @@ params:
     compact: false
     emoji: ""
     subtitle: "Ph.D. Student · Mechanical Engineering · Texas A&M University"
-    avatar: "assets/img/Image.png"
+    avatar: "img/Image.png"
 
   footer:
     since: 2020
