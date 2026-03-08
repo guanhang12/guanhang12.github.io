@@ -34,7 +34,7 @@ We will offer an innovative heat pump system solution that integrates dehumidifi
 
 Life Cycle Analysis (LCA), including cost and carbon intensity, and Technical Economic Analysis (TEA) will be conducted to guide the DWHP system design. The system will be tested in a HIL environment, and real lab testing with our industry partners.
 
-**Key Words:** `Novel hybrid desiccant`·  `Desiccant wheel heat pump systems`  · `Life Cycle Analysis` · `Virtual Testbed and Hardware-In-Loop experiments`·`Dymola` · `CFD`
+**Key Words:** `Novel hybrid desiccant`·  `Desiccant wheel heat pump systems`  · `Life Cycle Analysis` · `Virtual Testbed and Hardware-In-Loop experiments` · `Dymola` · `CFD`
 
 ## Contributions
 As a graduate research leader, I:
