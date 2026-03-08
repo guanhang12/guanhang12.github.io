@@ -156,7 +156,7 @@
     border-radius: 6px;
     border: 1px solid var(--border-light);
     text-decoration: none;
-    color: inherit;
+    color: var(--card-text-color-main);
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
@@ -344,7 +344,7 @@ a[class*="tag-"] {
     border-radius: 6px;
     border: 1px solid var(--border-light);
     text-decoration: none;
-    color: inherit;
+    color: var(--card-text-color-main);
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
