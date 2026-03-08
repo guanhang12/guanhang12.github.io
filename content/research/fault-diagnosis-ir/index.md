@@ -4,10 +4,10 @@ title: "Automatic Fault Diagnosis for Hot Water Pipes via Infrared Imaging"
 date: 2021-10-01
 dateRange: "Oct 2021 – May 2022"
 weight: 5
-tags:
-  - Infrared Imaging
-  - Fault Detection
-  - Image Analysis
+# tags:
+#   - Infrared Imaging
+#   - Fault Detection
+#   - Image Analysis
 categories:
   - Building automation
 links:
