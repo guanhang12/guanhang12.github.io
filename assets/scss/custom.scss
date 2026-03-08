@@ -24,6 +24,7 @@
 .hero {
     padding: 3.5rem 0 0.5rem;
     text-align: center;
+    color: var(--card-text-color-main);
 }
 
 .hero__name {
@@ -101,6 +102,7 @@
     margin-top: 0.5rem;
     font-size: 0.95rem;
     line-height: 1.7;
+    color: var(--card-text-color-main);
 }
 
 .home-content h2 {
@@ -320,6 +322,7 @@ a[class*="tag-"] {
 /* ---- Research list page ---- */
 .research-list-page {
     max-width: 100%;
+    color: var(--card-text-color-main);
 }
 
 .research-intro {
