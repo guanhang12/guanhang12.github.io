@@ -24,13 +24,21 @@ categories:
 ---
 
 ## Overview
-Graduate research leader for a [DOE-funded project](https://hvac.engr.tamu.edu/doe-dwhp-project/) on decarbonizing industrial food drying processes using energy-efficient desiccant-wheel heat pump (DWHP) systems. This work combines advanced thermodynamic modeling with optimization to design next-generation drying systems.
+The goal of this [DOE-funded project](https://hvac.engr.tamu.edu/doe-dwhp-project/) is to design, develop, create a prototype, and test a hybrid desiccant-wheel heat pump (DWHP) system for maximizing energy efficiency while ensuring quality during food drying.
 
-**Key Methods:** `Dymola` · `CFD` · `Life Cycle Analysis` · `System Virtual Testbed`
+We will offer an innovative heat pump system solution that integrates dehumidification, low-cost Internet of Things (IoT) sensors, data assimilation, and model-free predictive controls to operate the food drying process intelligently and safely through three modules:
+
+- desiccant wheel with **regenerative hybrid desiccant**  
+- a **desiccant wheel heat pump (DWHP)** system  
+- an intelligent **hierarchical reinforcement learning (HRL)** with transfer learning based product-centric controller
+
+Life Cycle Analysis (LCA), including cost and carbon intensity, and Technical Economic Analysis (TEA) will be conducted to guide the DWHP system design. The system will be tested in a HIL environment, and real lab testing with our industry partners.
+
+**Key Words:** `Novel hybrid desiccant`·  `Desiccant wheel heat pump systems`  · `Life Cycle Analysis` · `Virtual Testbed and Hardware-In-Loop experiments`·`Dymola` · `CFD`
 
 ## Contributions
-
-- Developed desiccant wheel models and optimized geometric design for drying controllability and desiccant use
+As a graduate research leader, I:
+- Developed physics-based and data-driven based desiccant wheel models and optimized geometric design for drying controllability and desiccant use
 - Built a DWHP system virtual testbed for modeling and control evaluation
 - Conducted life cycle analysis and food drying market survey
 - Future work: DWHP experiments and Hardware-In-Loop deployment
