@@ -51,13 +51,21 @@
     --left-sidebar-max-width: 18% !important;
 }
 
-.sidebar .site-avatar,
-.sidebar .site-avatar img {
+.sidebar .site-avatar {
     width: 120px !important;
-    height: 150px !important;   /* 比宽度大，竖长方形 */
+    height: 150px !important;
+    border-radius: 10px !important;
+    overflow: hidden;
+}
+
+.sidebar .site-avatar img {
+    width: 100% !important;
+    height: 100% !important;
     border-radius: 10px !important;
     object-position: top;
-    object-fit: cover; 
+    object-fit: cover;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
 }
 
 .site-name {
