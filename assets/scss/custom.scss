@@ -48,12 +48,13 @@
 .sidebar {
     font-size: 0.85rem;
     --sidebar-avatar-size: 150px;
+    --left-sidebar-max-width: 30% !important;
 }
 
 .sidebar .site-avatar,
 .sidebar .site-avatar img {
     width: 150px !important;
-    height: 200px !important;   /* 比宽度大，竖长方形 */
+    height: 180px !important;   /* 比宽度大，竖长方形 */
     border-radius: 10px !important;
     object-position: top;
 }
