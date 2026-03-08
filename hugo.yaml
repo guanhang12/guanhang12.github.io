@@ -23,7 +23,7 @@ params:
     compact: True
     emoji: ""
     subtitle: "" #Ph.D. Student · Mechanical Engineering · Texas A&M University
-    avatar: "img/Image.png"
+    avatar: "img/guan586122.png"
 
   footer:
     since: 2020
