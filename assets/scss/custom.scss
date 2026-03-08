@@ -52,20 +52,16 @@
 }
 
 .sidebar .site-avatar {
-    width: 120px !important;
-    height: 150px !important;
+    width: auto !important;
+    height: auto !important;
     border-radius: 10px !important;
-    overflow: hidden;
 }
 
 .sidebar .site-avatar img {
     width: 100% !important;
-    height: 100% !important;
+    height: auto !important;
     border-radius: 10px !important;
-    object-position: top;
-    object-fit: cover;
-    image-rendering: -webkit-optimize-contrast;
-    image-rendering: crisp-edges;
+    object-fit: contain;
 }
 
 .site-name {
