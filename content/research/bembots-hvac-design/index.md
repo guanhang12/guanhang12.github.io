@@ -1,5 +1,5 @@
 ---
-title: "BEMBOTS: Automatic Design Tool for HVAC Systems"
+title: "SHARK: AI-Enabled Automatic Design of HVAC Systems Based on BIM"
 # description: "Contributed to an automatic HVAC system design tool, focusing on water system pipe routing optimization using multi-agent ant colony algorithm."
 date: 2020-04-01
 dateRange: "Apr 2020 – Mar 2023"
@@ -29,14 +29,15 @@ categories:
 
 ## Overview
 
-Main team member on the BEMBOTS project — an automatic design tool for HVAC systems. Focused on developing intelligent pipe routing algorithms using multi-agent optimization techniques to automate the design of water distribution systems from building floor plans.
+A BIM-based automatic HVAC design platform named SHARK (Smart Heating Air-conditioning Refrigeration Kit) was developed. The platform integrates building information modeling (BIM), energy modeling, and intelligent design algorithms to automate several key steps of the HVAC design workflow, including system configuration generation, equipment selection, and layout generation. By digitalizing and automating the traditional design process, the platform aims to improve design efficiency, reduce repetitive engineering tasks, and enhance collaboration across different disciplines in building design.
 
-**Key Methods:** `Multi-Agent Ant Colony Optimization` · `BIM` · `Automated Design`
+**Key Methods:** `BIM` · `Automated Design` · `HVAC` · `Multi-Agent Ant Colony Optimization` 
 
 ## Contributions
-
-- Developed automatic water system pipe routing based on multi-agent ant colony optimization
-- Contributed to automated HVAC piping layout generation from building floor plans
+As a main team member, I: 
+- Developed an automated hydronic piping routing algorithm based on multi-ant colony optimization.
+- Implemented automatic piping layout generation for fan coil unit and fresh air unit systems using building geometry extracted from BIM models.
+- Integrated routing optimization with system design constraints to generate practical and engineering-feasible piping networks.
 
 ## Publications
 

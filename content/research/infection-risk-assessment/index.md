@@ -3,7 +3,7 @@ title: "Multi-Zone Infection Risk Assessment for Airborne Virus Transmission"
 # description: "Developed a multi-zone airflow and infection risk assessment model using CONTAM and Wells-Riley model, with case study on cruise ship ventilation."
 date: 2021-11-01
 dateRange: "Nov 2021 – May 2022"
-weight: 4
+weight: 3
 # tags:
 #   - CONTAM
 #   - Airborne Transmission
@@ -18,12 +18,12 @@ links:
 
 ## Overview
 
-Core team member on a multi-zone infection risk assessment project for airborne virus transmission. Combined CONTAM airflow modeling with the Wells-Riley infection model to evaluate transmission risk in complex built environments.
+This project aimed to develop a multi-zone infection risk assessment framework for airborne virus transmission through combining CONTAM airflow modeling with the Wells-Riley infection model to evaluate transmission risk in complex built environments.
 
 **Key Methods:** `CONTAM` · `Wells-Riley Model` · `Multi-Zone Airflow Modeling`
 
 ## Contributions
-
+As a graduate research leader, I:
 - Constructed a multi-zone airflow model in CONTAM integrated with a Wells-Riley infection risk model
 - Conducted case study on a cruise ship: analyzed risk in public areas and recommended optimal isolation rooms
 - Provided actionable suggestions for building layout and HVAC system optimization

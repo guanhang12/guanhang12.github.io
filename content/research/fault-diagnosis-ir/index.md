@@ -18,14 +18,14 @@ links:
 
 ## Overview
 
-Developed an automatic fault detection and diagnosis (FDD) method for hot water pipe systems using infrared thermal imaging. The algorithm processes IR images to identify temperature anomalies, diameter irregularities, and structural defects.
+An automatic fault detection and diagnosis (FDD) method for hot water pipe systems using infrared thermal imaging was developed. The algorithm processes IR images to identify temperature anomalies, diameter irregularities, and structural defects.
 
 **Key Methods:** `Infrared Thermography` · `Image Analysis` · `Fault Detection & Diagnosis`
 
 ## Contributions
 
 - Designed the FDD pipeline: temperature analysis, diameter analysis, and defect analysis
-- Automated fault detection from IR images for rapid building diagnostics
+- Data analysis of automated fault detection from IR images for rapid building diagnostics
 
 ## Publication
 
