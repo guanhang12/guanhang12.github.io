@@ -5,7 +5,8 @@ slug: awards
 
 
 ## Fellowships & Scholarships
-
+**2026-2027 ASHRAE Graduate Grant-In-Aid** — ASHRAE (May 2026)                                              
+ 
 **Byron Anderson ’54 Fellowship** — Texas A&M University (Aug 2025)  
 Recognized for academic excellence by the J. Mike Walker ’66 Department of Mechanical Engineering at Texas A&M University.
 

@@ -58,6 +58,14 @@ slug: experience
 
 ## Professional Service
 
-- **Reviewer**, *Journal of Building Engineering* (2025)  
+- **Reviewer**, *Energy and Buildings*, *Journal of Building Engineering*, *Scientific Reports*, *Journal of Thermal Analysis and Calorimetry* (2025-present)  
 - **Reviewer**, ASHRAE Conferences, *Building Simulation 2025*, *ASCE 2026 AEI IRD Conference*  
 - **Media Manager**, ASHRAE TAMU Student Branch (Sep 2023 – Sep 2024)
+
+## Professional Training
+
+**NSF PIRE Energy Research Exchange Bootcamp** | May 2024
+- Explored the potential application of district heating systems in Philadelphia through interdisciplinary research. 
+**NASA-DEAP PhD Research Development Workshop | DS/AI/ML Research Training** | June 2024
+- Training in Machine Learning, Time Series Analysis, Graph Neural Networks (GNNs), and Natural Language Processing (NLP). 
+- Conducted building similarity analysis using smart home data from TAMU RELLIS Campus, College Station
