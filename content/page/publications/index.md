@@ -27,16 +27,20 @@ Multidisciplinary modeling and evaluation of hybrid hydrogel desiccant coated he
 ## Conference Papers
 
 
-[1] **Hang Guan**, Mingzhe Liu, Zhiyao Yang, Zheng O’Neill, Optimizing the Geometric Design of Desiccant Wheels for Drying Controllability and Desiccant Use, *ASHRAE Winter Conference*, 2025. DOI:[https://doi.org/10.63044/w25gua67](https://doi.org/10.63044/w25gua67)
+[1] **Hang Guan**, Yuhang Zhang, Zheng O'Neill, Bing Dong, A Scientific Machine Learning Approach for Geothermal Borefield Thermal Modeling via Residual Learning, *9th International High Performance Buildings Conference (2026 Herrick Conferences)*, Purdue University, 2026. 🏆 **Student Paper Award**
+
+
+
+[2] **Hang Guan**, Mingzhe Liu, Zhiyao Yang, Zheng O’Neill, Optimizing the Geometric Design of Desiccant Wheels for Drying Controllability and Desiccant Use, *ASHRAE Winter Conference*, 2025. DOI:[https://doi.org/10.63044/w25gua67](https://doi.org/10.63044/w25gua67)
 
 
 
 
-[2] **Hang Guan**, Mingzhe Liu, Zhiyao Yang, Zheng O’Neill, Comparison of Different Desiccant Wheel Modeling Methods: A Review and Case Study, *ASHRAE Annual Conference*, 2024. DOI:[https://doi.org/10.63044/s24gua23](https://doi.org/10.63044/s24gua23)
+[3] **Hang Guan**, Mingzhe Liu, Zhiyao Yang, Zheng O’Neill, Comparison of Different Desiccant Wheel Modeling Methods: A Review and Case Study, *ASHRAE Annual Conference*, 2024. DOI:[https://doi.org/10.63044/s24gua23](https://doi.org/10.63044/s24gua23)
 
 
 
-[3] Junjie Li, **Hang Guan**, Peng Xu, Automatic design of HVAC water system pipelines based on multi-agent ant colony algorithm, *5th Asia Conference of IBPSA*, 2024. DOI:[https://doi.org/10.69357/asim2024.1302](https://doi.org/10.69357/asim2024.1302).
+[4] Junjie Li, **Hang Guan**, Peng Xu, Automatic design of HVAC water system pipelines based on multi-agent ant colony algorithm, *5th Asia Conference of IBPSA*, 2024. DOI:[https://doi.org/10.69357/asim2024.1302](https://doi.org/10.69357/asim2024.1302).
 
 
 

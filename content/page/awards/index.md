@@ -4,6 +4,13 @@ slug: awards
 ---
 
 
+## Conference Paper Awards
+
+**Student Paper Award** — 9th International High Performance Buildings Conference (2026 Herrick Conferences), Purdue University (Jul 2026)  
+Awarded for the paper *"A Scientific Machine Learning Approach for Geothermal Borefield Thermal Modeling via Residual Learning,"* co-authored with Yuhang Zhang, Dr. Zheng O'Neill, and Dr. Bing Dong.
+
+
+
 ## Fellowships & Scholarships
 **2026-2027 ASHRAE Graduate Grant-In-Aid** — ASHRAE (May 2026)                                              
  

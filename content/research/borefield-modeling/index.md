@@ -24,3 +24,8 @@ As a graduate research leader,  I:
 - Implemented hybrid models combining g-function thermal response with neural networks
 - Built predictive models for borefield outlet temperature and system dynamics
 - On-going and future work: Applying the framework to optimization and advanced control of geothermal systems
+
+## Publications & Recognition
+
+- **Hang Guan**, Yuhang Zhang, Zheng O'Neill, Bing Dong, "A Scientific Machine Learning Approach for Geothermal Borefield Thermal Modeling via Residual Learning," *9th International High Performance Buildings Conference (2026 Herrick Conferences)*, Purdue University, 2026.
+- 🏆 Recipient of the **Student Paper Award** for this work.
