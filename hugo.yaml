@@ -22,7 +22,7 @@ params:
   sidebar:
     compact: True
     emoji: ""
-    subtitle: "" #Ph.D. Student · Mechanical Engineering · Texas A&M University
+    subtitle: "" #Ph.D. Candidate · Mechanical Engineering · Texas A&M University
     avatar: "img/guan586122.png"
 
   footer:
@@ -105,7 +105,7 @@ menu:
         icon: school
     - identifier: linkedin
       name: LinkedIn
-      url: "https://www.linkedin.com/in/hang-guan-4763752a6/"
+      url: "https://www.linkedin.com/in/hangguan/"
       params:
         icon: brand-linkedin
     - identifier: email
