@@ -3,7 +3,7 @@ title: "Smart Home Technology Deployment and Experimental Testing"
 # description: "Deployed smart-home sensors for activity and fall detection and tested building control strategies in a smart-home testbed."
 date: 2026-06-01
 dateRange: "Summer 2026"
-weight: 5
+weight: 3
 categories:
   - Building automation
 ---

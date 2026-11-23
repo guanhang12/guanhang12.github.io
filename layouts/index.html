@@ -33,7 +33,7 @@
     <h2 class="section-label">Selected Research</h2>
     {{ $pages := where site.RegularPages "Type" "research" }}
     {{ $visible := where $pages "Params.hidden" "!=" true }}
-    {{ range first 3 ($visible.ByWeight) }}
+    {{ range first 4 ($visible.ByWeight) }}
     <a href="{{ .Permalink }}" class="research-preview">
         <strong>{{ .Title }}</strong>
         <span>{{ .Description }}</span>

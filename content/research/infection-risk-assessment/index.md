@@ -3,7 +3,7 @@ title: "Multi-Zone Infection Risk Assessment for Airborne Virus Transmission"
 # description: "Developed a multi-zone airflow and infection risk assessment model using CONTAM and Wells-Riley model, with case study on cruise ship ventilation."
 date: 2021-11-01
 dateRange: "Nov 2021 – Jan 2023"
-weight: 3
+weight: 4
 # tags:
 #   - CONTAM
 #   - Airborne Transmission
