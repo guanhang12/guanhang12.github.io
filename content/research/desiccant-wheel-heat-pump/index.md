@@ -39,11 +39,14 @@ Life Cycle Analysis (LCA), including cost and carbon intensity, and Technical Ec
 ## Contributions
 As a graduate research leader, I:
 - Developed physics-based and data-driven based desiccant wheel models and optimized geometric design for drying controllability and desiccant use
+- Developed and open-sourced a unified multi-fidelity Modelica library for desiccant-wheel simulation, supporting design, system simulation, and control applications ([GitHub](https://github.com/BE-HVACR/DesiccantWheel))
 - Built a DWHP system virtual testbed for modeling and control evaluation
 - Conducted life cycle analysis and food drying market survey
 - Future work: DWHP experiments and Hardware-In-Loop deployment
 
 ## Publications
 
-- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "[Comparison of Different Desiccant Wheel Modeling Methods: A Review and Case Study](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=A6TRzYYAAAAJ&citation_for_view=A6TRzYYAAAAJ:qjMakFHDy7sC)," *2024 ASHRAE Annual Conference*, 2024.
-- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "[Optimizing the Geometric Design of Desiccant Wheels for Drying Controllability and Desiccant Use](https://store.accuristech.com/standards/or-25-c067-optimizing-the-geometric-design-of-desiccant-wheels-for-drying-controllability-and-desiccant-use?product_id=3017352)," *2025 ASHRAE Winter Conference*, 2025.
+- **Hang Guan**, Z. Yang, M. Liu, Z. O'Neill, "[Application-specific performance assessment of desiccant wheel design and operational parameters for industrial drying and HVAC dehumidification](https://doi.org/10.1016/j.applthermaleng.2026.132767)," *Applied Thermal Engineering*, 2026, 304: 132767.
+- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "A Unified Multi-Fidelity Modelica Library for Desiccant Wheel Simulation," *American Modelica & FMI Conference 2026* (accepted). Code: [GitHub](https://github.com/BE-HVACR/DesiccantWheel)
+- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "[Optimizing the Geometric Design of Desiccant Wheels for Drying Controllability and Desiccant Use](https://doi.org/10.63044/w25gua67)," *2025 ASHRAE Winter Conference*, 2025.
+- **Hang Guan**, M. Liu, Z. Yang, Z. O'Neill, "[Comparison of Different Desiccant Wheel Modeling Methods: A Review and Case Study](https://doi.org/10.63044/s24gua23)," *2024 ASHRAE Annual Conference*, 2024.

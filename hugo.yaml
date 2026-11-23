@@ -17,7 +17,7 @@ params:
     - research
   featuredImageField: image
   rssFullContent: true
-  cvFile: "/files/Hang Guan_Resume_.pdf"
+  cvFile: "/files/Hang_Guan_CV.pdf"
 
   sidebar:
     compact: True

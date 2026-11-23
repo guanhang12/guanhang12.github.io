@@ -27,5 +27,6 @@ As a graduate research leader,  I:
 
 ## Publications & Recognition
 
+- **Hang Guan**, Yuhang Zhang, Zheng O'Neill, Bing Dong, "Adaptive Fusion: A Physics-Integrated Machine Learning Framework for Geothermal Borefield Thermal Modeling," *Energy* (under review).
 - **Hang Guan**, Yuhang Zhang, Zheng O'Neill, Bing Dong, "A Scientific Machine Learning Approach for Geothermal Borefield Thermal Modeling via Residual Learning," *9th International High Performance Buildings Conference (2026 Herrick Conferences)*, Purdue University, 2026.
 - 🏆 Recipient of the **Student Paper Award** for this work.

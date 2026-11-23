@@ -14,11 +14,12 @@ categories:
 
 ## Overview
 
-Ph.D. Intern in the Control Methods Group at Pacific Northwest National Laboratory (PNNL). Focused on water-loop ground-source heat pump (GSHP) system modeling and control for multi-family residential buildings.
+Ph.D. Intern in the Advanced Control and Optimization Group at Pacific Northwest National Laboratory (PNNL). Focused on water-loop ground-source heat pump (GSHP) system modeling and control for multi-family residential buildings.
 
 **Key Methods:** `GSHP Modeling` · `Borefield Sizing` · `System Simulation`
 
 ## Contributions
 
+- Modeled water-loop GSHP systems for multi-family buildings
 - Designed and sized borefield configurations for water-loop GSHP systems in multi-family buildings
 - Evaluated system performance and optimization potential through simulation

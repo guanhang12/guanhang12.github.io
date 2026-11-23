@@ -2,8 +2,8 @@
 title: "Automatic Fault Diagnosis for Hot Water Pipes via Infrared Imaging"
 # description: "Developed an automatic fault diagnosis algorithm for hot water pipes using infrared thermal images, published in Building and Environment."
 date: 2021-10-01
-dateRange: "Oct 2021 – May 2022"
-weight: 5
+dateRange: "Oct 2021 – Mar 2022"
+weight: 6
 # tags:
 #   - Infrared Imaging
 #   - Fault Detection

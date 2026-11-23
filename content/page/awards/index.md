@@ -7,13 +7,13 @@ slug: awards
 ## Fellowships & Scholarships
 **2026-2027 ASHRAE Graduate Grant-In-Aid** — ASHRAE (May 2026)                                              
  
-**Byron Anderson ’54 Fellowship** — Texas A&M University (Aug 2025)  
+**Byron Anderson ’54 Fellowship** — Texas A&M University (Aug 2025; Aug 2026)  
 Recognized for academic excellence by the J. Mike Walker ’66 Department of Mechanical Engineering at Texas A&M University.
 
 **Departmental Graduate Student Travel Award** — Texas A&M University (Jun 2024; Feb 2025)  
 Travel support awarded by the J. Mike Walker ’66 Department of Mechanical Engineering to present research at academic conferences.
 
-**National Scholarship** — Ministry of Education of China (Oct 2022)  
+**National Scholarship** — Ministry of Education of China (Dec 2022)  
 A prestigious national award recognizing outstanding academic performance among university students.
 
 **National Endeavor Scholarship** — Ministry of Education of China (2017–2019, three times)  
@@ -29,7 +29,7 @@ Awarded for the paper *"A Scientific Machine Learning Approach for Geothermal Bo
 **Outstanding Graduate of Shanghai Municipality (Graduate Level)** (May 2023)  
 Selected as one of the top graduates among universities in Shanghai Municipality, China.
 
-**Outstanding Graduate of Tongji University** (Dec 2022)  
+**Outstanding Graduate of Tongji University** (Nov 2022)  
 Awarded to students with outstanding academic achievements and overall performance.
 
 **Outstanding Graduate of Zhengzhou University** (Jun 2020)  

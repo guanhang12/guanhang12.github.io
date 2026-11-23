@@ -3,7 +3,7 @@ title: "SHARK: AI-Enabled Automatic Design of HVAC Systems Based on BIM"
 # description: "Contributed to an automatic HVAC system design tool, focusing on water system pipe routing optimization using multi-agent ant colony algorithm."
 date: 2020-04-01
 dateRange: "Apr 2020 – Mar 2023"
-weight: 6
+weight: 7
 # tags:
 #   - BIM
 #   - Optimization
