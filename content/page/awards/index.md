@@ -13,8 +13,8 @@ Recognized for academic excellence by the J. Mike Walker ’66 Department of Mec
 **Departmental Graduate Student Travel Award** — Texas A&M University (Jun 2024; Feb 2025)  
 Travel support awarded by the J. Mike Walker ’66 Department of Mechanical Engineering to present research at academic conferences.
 
-**National Scholarship** — Ministry of Education of China (Dec 2022)  
-A prestigious national award recognizing outstanding academic performance among university students.
+**National Scholarship** — Ministry of Education of China (Oct 2022)  
+Awarded by the Ministry of Education of the People's Republic of China for academic excellence.
 
 **National Endeavor Scholarship** — Ministry of Education of China (2017–2019, three times)  
 National-level scholarship awarded to students with excellent academic achievements.
@@ -27,10 +27,10 @@ National-level scholarship awarded to students with excellent academic achieveme
 Awarded for the paper *"A Scientific Machine Learning Approach for Geothermal Borefield Thermal Modeling via Residual Learning,"* co-authored with Yuhang Zhang, Dr. Zheng O'Neill, and Dr. Bing Dong.
 
 **Outstanding Graduate of Shanghai Municipality (Graduate Level)** (May 2023)  
-Selected as one of the top graduates among universities in Shanghai Municipality, China.
+Selected as one of the top graduates from universities across Shanghai Municipality, China.
 
-**Outstanding Graduate of Tongji University** (Nov 2022)  
-Awarded to students with outstanding academic achievements and overall performance.
+**Outstanding Graduate of Tongji University** (Dec 2022)  
+Recognized as one of the top graduates at Tongji University for exceptional academic achievements.
 
 **Outstanding Graduate of Zhengzhou University** (Jun 2020)  
 Recognized as one of the top graduating students at Zhengzhou University.
