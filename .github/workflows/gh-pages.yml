@@ -26,7 +26,8 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest"
+          # Pinned: Hugo 0.170 fails on this theme's SCSS without Dart Sass; 0.164.0 is verified to build.
+          hugo-version: "0.164.0"
           extended: true
 
       - name: Setup Pages
